@@ -1,0 +1,10 @@
+{
+    "id": "1.20.1",
+    "assets":{
+        "id": "5",
+        "sha1": "c0424926b17d3969dbc93ad106cc26486fbaabeb",
+        "size": 411581,
+        "totalSize": 621901539,
+        "url": "https://piston-meta.mojang.com/v1/packages/c0424926b17d3969dbc93ad106cc26486fbaabeb/5.json"
+    }
+}
